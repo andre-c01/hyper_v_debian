@@ -183,7 +183,7 @@
 
 > ![](images/2025-04-27-00-12-10-image.png)
 
-### Mirror Country - (default)
+### Mirror Country
 
 > ![](images/2025-04-27-00-12-34-image.png)
 
